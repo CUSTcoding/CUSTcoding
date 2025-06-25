@@ -75,6 +75,7 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 <br>
 
 <span align="start">
+<h1 align="center">Projectos</h1>
   
 ## 🎨 Design Gráfico e UX/UI 
 Pendente...
@@ -110,7 +111,7 @@ pendente...
 Pendente...
 ---
 
-## 📊 Ciência de Dados, R e BI  
+## 📊 Analise e Ciência de Dados, R e BI  
 Pendente...
 ---
 
