@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Custódio Titosse — mais conhecido como <Cust Coding>
+## 👋 Olá, eu sou Custódio Titosse — mais conhecido como < Cust Coding >
 
 <!--
 **CUSTcoding/CUSTcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
