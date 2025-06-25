@@ -77,6 +77,10 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 <span align="start">
   
 ## 🎨 Design Gráfico e UX/UI 
+Pendente...
+---
+
+## 🌐 Desenvolvimento Web (Front-End) 
 [chambal_investimentos](https://github.com/CUSTcoding/chambal_investimentos_site)
 
 [PayArte_Cortinas_&_Percians](https://github.com/CUSTcoding/PayArte-Cotinas-Percianas)
@@ -85,18 +89,15 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 
 [JMU-estatistica](https://github.com/CUSTcoding/JMU-estatistica)
 
+
 ---
 
-## 🌐 Desenvolvimento Web (Front-End)  
+## 🧩 Desenvolvimento Web (Back-End) 
 [PayArte_fastapi](https://github.com/CUSTcoding/PayArte_fastapi)
 
 [JMU-estatistica-Forms](https://github.com/CUSTcoding/JMU-estatistica)
 
 
-
----
-
-## 🧩 Desenvolvimento Web (Back-End)  
 
 
 ---
