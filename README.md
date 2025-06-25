@@ -7,10 +7,11 @@ Gosto de entender como diferentes tecnologias se conectam para criar soluções 
 
 Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovação e resultados práticos.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CUSTcoding&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTcoding&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CUSTcoding&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark)](https://github.com/CUSTcoding/github-readme-stats)
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CUSTcoding&theme=radical)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CUSTcoding&theme=github-compact)](https://github.com/CUSTcoding/github-readme-activity-graph)
+
 
 <!---[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=CUSTcoding&theme=github)](https://github.com/CUSTcoding)--->
 
