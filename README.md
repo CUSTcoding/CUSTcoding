@@ -79,30 +79,25 @@ Pendente...
 ## 🌐 Desenvolvimento Web (Front-End) 
 [Portifolio Jose Arone](https://github.com/CUSTcoding/portifolio-daniel)
 
-[Portifolio Danieal(https://github.com/CUSTcoding/portifolio-jose)
+[Portifolio Danieal](https://github.com/CUSTcoding/portifolio-jose)
 
 [JMU-estatistica](https://github.com/CUSTcoding/JMU-estatistica)
-
 
 ---
 
 ## 🧩 Desenvolvimento Web (Back-End) 
 Pendent...
-
-
-
-
 ---
 
 ## 🗄️ Banco de Dados  
 pendente...
 ---
 
-## 🔧 Automação com Python  
+## 🔧 Automação com Python e N8N 
 Pendente...
 ---
 
-## 📊 Analise e Ciência de Dados, R e BI  
+## 📊 Analise e Ciência de Dados, Python e BI  
 Pendente...
 ---
 
@@ -116,12 +111,15 @@ Pendente...
 
 ## 🐳 Docker & 📦 Docker Compose 
  [Docker & Docker Compose](https://github.com/CUSTcoding/Docker-docker-compose)
+ 
 ---
 ## ☸️ Kubernets 
 [Kubernets](https://github.com/CUSTcoding/kubernetes)
+
 ---
 ## 🐧 Ubuntu Server  
 [Ubunto Server](https://github.com/CUSTcoding/Ubuntu-server-devops)
+
 ---
 ## 🛡️ Segurança da Informação & Pentest  
 Pendente...
