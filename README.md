@@ -85,7 +85,11 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 Pendent...
 ---
 
-## 🗄️ Banco de Dados  
+## 📱 Mobile 
+pendente...
+---
+
+## 💻 Desktop Apps
 pendente...
 ---
 
