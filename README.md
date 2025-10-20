@@ -77,11 +77,9 @@ Pendente...
 ---
 
 ## 🌐 Desenvolvimento Web (Front-End) 
-[chambal_investimentos](https://github.com/CUSTcoding/chambal_investimentos_site)
+[Portifolio Jose Arone](https://github.com/CUSTcoding/portifolio-daniel)
 
-[PayArte_Cortinas_&_Percians](https://github.com/CUSTcoding/PayArte-Cotinas-Percianas)
-
-[Protech_Education](https://github.com/CUSTcoding/chambal_investimentos_site)
+[Portifolio Danieal(https://github.com/CUSTcoding/portifolio-jose)
 
 [JMU-estatistica](https://github.com/CUSTcoding/JMU-estatistica)
 
@@ -89,9 +87,7 @@ Pendente...
 ---
 
 ## 🧩 Desenvolvimento Web (Back-End) 
-[PayArte_fastapi](https://github.com/CUSTcoding/PayArte_fastapi)
-
-[JMU-estatistica-Forms](https://github.com/CUSTcoding/JMU-estatistica)
+Pendent...
 
 
 
@@ -115,9 +111,18 @@ Pendente...
 ---
 
 ## 🤖 IA, Automações e Agentes  
-Pendente...
+
 ---
 
+## 🐳 Docker & 📦 Docker Compose 
+ [Docker & Docker Compose](https://github.com/CUSTcoding/Docker-docker-compose)
+---
+## ☸️ Kubernets 
+[Kubernets](https://github.com/CUSTcoding/kubernetes)
+---
+## 🐧 Ubuntu Server  
+[Ubunto Server](https://github.com/CUSTcoding/Ubuntu-server-devops)
+---
 ## 🛡️ Segurança da Informação & Pentest  
 Pendente...
 ---
