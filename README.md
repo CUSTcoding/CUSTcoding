@@ -72,10 +72,6 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 <span align="start">
 <h1 align="center">Projectos</h1>
   
-## 🎨 Design Gráfico e UX/UI 
-Pendente...
----
-
 ## 🌐 Desenvolvimento Web (Front-End) 
 [Portifolio Jose Arone](https://github.com/CUSTcoding/portifolio-daniel)
 
