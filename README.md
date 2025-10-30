@@ -24,6 +24,7 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 
 <h1>Algumas tecnologias</h1>
