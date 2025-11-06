@@ -1,6 +1,6 @@
-## 👋 Olá, eu sou Custódio Titosse — conhecido como < Cust Coding >
+# Olá, eu sou Custódio Titosse — conhecido como < Cust Coding >
 
-# 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou uma pessoa curiosa e apaixonada por aprender. Tenho paixão por explorar temas que envolvem comportamento humano, análise de dados, segurança da informação e design.  
 Gosto de entender como diferentes tecnologias se conectam para criar soluções reais e eficientes.
@@ -75,7 +75,7 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 <span align="start">
 <h1 align="center">Projectos</h1>
   
-## 🌐 Desenvolvimento Web (Front-End) 
+##  Desenvolvimento Web (Front-End) 
 [Portifolio Jose Arone](https://github.com/CUSTcoding/portifolio-daniel)
 
 [Portifolio Danieal](https://github.com/CUSTcoding/portifolio-jose)
@@ -86,54 +86,54 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 
 ---
 
-## 🧩 Desenvolvimento Web (Back-End) 
+##  Desenvolvimento Web (Back-End) 
 [M-pesa clone](https://github.com/CUSTcoding/m-pesa_clone)
 ---
 
-## 📱 Mobile 
+##  Mobile 
 pendente...
 ---
 
-## 💻 Desktop Apps
+##  Desktop Apps
 pendente...
 ---
 
-## 📊 Analise e Ciência de Dados, Python e BI  
+##  Analise e Ciência de Dados, Python e BI  
 
 [House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
 ---
 
-## 👁️ Visão Computacional  
+##  Visão Computacional  
 Pendente...
 ---
 
-## 🤖 IA, Automações e Agentes  
+##  IA, Automações e Agentes  
 [IA Educacional](https://github.com/CUSTcoding/IA_educacional)
 
 [ RHAS *RH Automation Suite*](https://github.com/CUSTcoding/rh-automation-suite)
 
 ---
 
-## 🐳 Docker & 📦 Docker Compose 
+##  Docker &  Docker Compose 
  [Docker & Docker Compose](https://github.com/CUSTcoding/Docker-docker-compose)
  
 ---
-## ☸️ Kubernets 
+##  Kubernets 
 [Kubernets](https://github.com/CUSTcoding/kubernetes)
 
 ---
-## 🐧 Ubuntu Server  
+##  Ubuntu Server  
 [Ubunto Server](https://github.com/CUSTcoding/Ubuntu-server-devops)
 
 ---
-## 🛡️ Segurança da Informação & Pentest  
+##  Segurança da Informação & Pentest  
 Pendente...
 ---
 </span>
 
 ----
 
-## 📫 Contatos
+##  Contatos
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/845790023) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/SEU_USUARIO) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/custodio-da-sara-titosse-165567263)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Custodiotitossetitosse@gmail.com)
 
