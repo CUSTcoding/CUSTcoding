@@ -5,7 +5,7 @@
 Sou uma pessoa curiosa e apaixonada por aprender. Tenho paixão por explorar temas que envolvem comportamento humano, análise de dados, segurança da informação e design.  
 Gosto de entender como diferentes tecnologias se conectam para criar soluções reais e eficientes.
 
-Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovação e resultados práticos.  
+Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovação e resultados práticos porem sou apaixonado por Front-End e Ciencia de Dados.  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CUSTcoding&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark)](https://github.com/CUSTcoding/github-readme-stats)
 
@@ -99,7 +99,8 @@ pendente...
 ---
 
 ## 📊 Analise e Ciência de Dados, Python e BI  
-Pendente...
+
+[House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
 ---
 
 ## 👁️ Visão Computacional  
