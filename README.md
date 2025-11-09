@@ -21,10 +21,16 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 
 <span align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
+</div>
+
 
 
 <h1>Algumas tecnologias</h1>
@@ -49,6 +55,7 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFB400?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8BC34A?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
@@ -62,7 +69,7 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
