@@ -1,19 +1,24 @@
-# Olá, eu sou Custódio Titosse — conhecido como < Cust Coding >
+# 👋 Olá! Eu sou o Custódio Titosse, conhecido como < Cust Coding>
 
-##  Sobre Mim
+## 🚀 Sobre Mim
 
-Sou uma pessoa curiosa e apaixonada por aprender. Tenho paixão por explorar temas que envolvem comportamento humano, análise de dados, segurança da informação e design.  
-Gosto de entender como diferentes tecnologias se conectam para criar soluções reais e eficientes.
+Sou movido pela curiosidade e pela vontade constante de aprender. Tenho grande interesse em comportamento humano, análise de dados, cibersegurança e design.  
+Acredito que a tecnologia pode transformar ideias em soluções reais e eficientes.
 
-Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovação e resultados práticos porem sou apaixonado por Front-End e Ciencia de Dados.  
+Atualmente, estou focado em desenvolvimento **Front-End** e **Ciência de Dados** — áreas que me permitem unir lógica, criatividade e impacto.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CUSTcoding&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark)](https://github.com/CUSTcoding/github-readme-stats)
+---
 
+
+<div align="center">
+
+| Estatísticas | Linguagens |
+|--------------|------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=CUSTcoding&show_icons=true&theme=radical&cache_seconds=1800" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&cache_seconds=1800" /> |
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CUSTcoding&theme=github-compact)](https://github.com/CUSTcoding/github-readme-activity-graph)
 
 
-<!---[![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=CUSTcoding&theme=github)](https://github.com/CUSTcoding)--->
 
 <span align="center">
 
@@ -83,23 +88,23 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 <h1 align="center">Projectos</h1>
   
 ##  Desenvolvimento Web (Front-End) 
-[Portifolio Jose Arone](https://github.com/CUSTcoding/portifolio-daniel)
+- [Portifolio Jose Arone](https://github.com/CUSTcoding/portifolio-daniel)
 
-[Portifolio Danieal](https://github.com/CUSTcoding/portifolio-jose)
+- [Portifolio Danieal](https://github.com/CUSTcoding/portifolio-jose)
 
-[JMU-estatistica](https://github.com/CUSTcoding/JMU-estatistica)
+- [JMU-estatistica](https://github.com/CUSTcoding/JMU-estatistica)
 
-[Portifolio Custodio](https://github.com/CUSTcoding/cust-coding-portifolio)
+- [Portifolio Custodio](https://github.com/CUSTcoding/cust-coding-portifolio)
 
 ---
 
 ##  Desenvolvimento Web (Back-End) 
 
-[M-pesa clone](https://github.com/CUSTcoding/m-pesa_clone)
+- [M-pesa clone](https://github.com/CUSTcoding/m-pesa_clone)
 
-[Login JWT Django](https://github.com/CUSTcoding/login-jwt-django)
+- [Login JWT Django](https://github.com/CUSTcoding/login-jwt-django)
 
-[Login JWT Spring](https://github.com/CUSTcoding/login-jwt-spring)
+- [Login JWT Spring](https://github.com/CUSTcoding/login-jwt-spring)
 
 ---
 
@@ -115,40 +120,34 @@ pendente...
 
 ##  Analise e Ciência de Dados, Python e BI  
 
-[House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
+- [House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
 
 ---
 
 ##  Visão Computacional  
-[byte_NHANGA](https://github.com/CUSTcoding/byte_NHANGA)
+- [byte_NHANGA](https://github.com/CUSTcoding/byte_NHANGA)
 
-[EPIwatch](https://github.com/CUSTcoding/EPIwatch)
+- [EPIwatch](https://github.com/CUSTcoding/EPIwatch)
 
-[HandSlide](https://github.com/CUSTcoding/HandSlide)
+- [HandSlide](https://github.com/CUSTcoding/HandSlide)
 
 ---
 
 ##  IA, Automações e Agentes  
-[IA Educacional](https://github.com/CUSTcoding/IA_educacional)
+- [IA Educacional](https://github.com/CUSTcoding/IA_educacional)
 
-[ RHAS *RH Automation Suite*](https://github.com/CUSTcoding/rh-automation-suite)
-
----
-
-##  Docker &  Docker Compose 
- [Docker & Docker Compose](https://github.com/CUSTcoding/Docker-docker-compose)
- 
----
-##  Kubernets 
-[Kubernets](https://github.com/CUSTcoding/kubernetes)
+- [ RHAS *RH Automation Suite*](https://github.com/CUSTcoding/rh-automation-suite)
 
 ---
-##  Ubuntu Server  
-[Ubunto Server](https://github.com/CUSTcoding/Ubuntu-server-devops)
 
+### DevOps
+- [Docker & Docker Compose](https://github.com/CUSTcoding/Docker-docker-compose)
+- [Kubernetes](https://github.com/CUSTcoding/kubernetes)
+- [Ubuntu Server](https://github.com/CUSTcoding/Ubuntu-server-devops)
 ---
+
 ##  Segurança da Informação & Pentest  
-[Cripografia](https://github.com/CUSTcoding/Criptografia)
+- [Cripografia](https://github.com/CUSTcoding/Criptografia)
 
 ---
 </span>
@@ -157,20 +156,17 @@ pendente...
 
 ##  Contatos
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/845790023) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/SEU_USUARIO) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/custodio-da-sara-titosse-165567263)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Custodiotitossetitosse@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/845790023) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/SEU_USUARIO) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/SEU_USUARIO) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/custodio-da-sara-titosse-165567263)
+
+<br/>
+<span align="center">
+
+<p>*“A tecnologia é o que acontece quando criatividade encontra propósito.”*</p>
+<span></span>
+<span>© Cust Coding — Todos os direitos reservados.</span>
+
+<span align="center">
 
 
-<!--
-**CUSTcoding/CUSTcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
