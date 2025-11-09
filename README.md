@@ -12,9 +12,8 @@ Atualmente, estou focado em desenvolvimento **Front-End** e **Ciência de Dados*
 
 <div align="center">
 
-| Estatísticas | Linguagens |
-|--------------|------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=CUSTcoding&show_icons=true&theme=radical&cache_seconds=1800" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&cache_seconds=1800" /> |
+
+ <img src="https://github-readme-stats.vercel.app/api?username=CUSTcoding&show_icons=true&theme=radical&cache_seconds=1800" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&cache_seconds=1800" /> 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CUSTcoding&theme=github-compact)](https://github.com/CUSTcoding/github-readme-activity-graph)
 
