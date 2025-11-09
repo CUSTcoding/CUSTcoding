@@ -94,24 +94,38 @@ Meu foco é atuar em projetos que integrem essas áreas, buscando sempre inovaç
 ---
 
 ##  Desenvolvimento Web (Back-End) 
+
 [M-pesa clone](https://github.com/CUSTcoding/m-pesa_clone)
+
+[Login JWT Django](https://github.com/CUSTcoding/login-jwt-django)
+
+[Login JWT Spring](https://github.com/CUSTcoding/login-jwt-spring)
+
 ---
 
 ##  Mobile 
 pendente...
+
 ---
 
 ##  Desktop Apps
 pendente...
+
 ---
 
 ##  Analise e Ciência de Dados, Python e BI  
 
 [House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
+
 ---
 
 ##  Visão Computacional  
-Pendente...
+[byte_NHANGA](https://github.com/CUSTcoding/byte_NHANGA)
+
+[EPIwatch](https://github.com/CUSTcoding/EPIwatch)
+
+[HandSlide](https://github.com/CUSTcoding/HandSlide)
+
 ---
 
 ##  IA, Automações e Agentes  
@@ -134,8 +148,8 @@ Pendente...
 
 ---
 ##  Segurança da Informação & Pentest  
-
 [Cripografia](https://github.com/CUSTcoding/Criptografia)
+
 ---
 </span>
 
