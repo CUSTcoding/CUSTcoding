@@ -127,7 +127,6 @@ Pendente...
 
 ---
 ##  Segurança da Informação & Pentest  
-
 [Cripografia](https://github.com/CUSTcoding/Criptografia)
 ---
 </span>
