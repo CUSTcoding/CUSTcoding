@@ -121,6 +121,7 @@ pendente...
 ##  Analise e Ciência de Dados, Python e BI  
 
 - [House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
+- [Titanic Kaggle](https://github.com/CUSTcoding/Titanic-Kaggle)
 
 ---
 
@@ -144,6 +145,11 @@ pendente...
 - [Docker & Docker Compose](https://github.com/CUSTcoding/Docker-docker-compose)
 - [Kubernetes](https://github.com/CUSTcoding/kubernetes)
 - [Ubuntu Server](https://github.com/CUSTcoding/Ubuntu-server-devops)
+  
+---
+##  Bitcoin & Cypherpunk 
+- [Bitcoin Prototype](https://github.com/CUSTcoding/bitcoin-prototype)
+- [Programming Bitcoin Exercises](https://github.com/CUSTcoding/programming-bitcoin-exercises)
 ---
 
 ##  Segurança da Informação & Pentest  
