@@ -15,9 +15,9 @@ Atuo como **Desenvolvedor Fullstack e Mobile**, com inclinação para **DevOps e
 Minha missão é construir **soluções escaláveis, inteligentes e open source**, sempre unindo **tecnologia web, dados e inovação**.
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&hide=HTML,CSS&cache_seconds=1800" alt="Top Languages">
-</a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&hide=JavaScript,HTML,CSS,Dockerfile,Hack,PHP&langs_count=5&cache_seconds=1800" alt="Top Languages">
+  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=CUSTcoding&show_icons=true&theme=dark&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </a>
