@@ -88,32 +88,17 @@ Atualmente, estou focado em desenvolvimento **Front-End** e **Ciência de Dados*
 <h1 align="center">Projectos</h1>
   
 ##  Desenvolvimento Web (Front-End) 
-- [Portifolio Jose Arone](https://github.com/CUSTcoding/portifolio-daniel)
-
-- [Portifolio Danieal](https://github.com/CUSTcoding/portifolio-jose)
-
-- [JMU-estatistica](https://github.com/CUSTcoding/JMU-estatistica)
-
-- [Portifolio Custodio](https://github.com/CUSTcoding/cust-coding-portifolio)
-
----
-
-##  Desenvolvimento Web (Back-End) 
-
-- [M-pesa clone](https://github.com/CUSTcoding/m-pesa_clone)
-
-- [Login JWT Django](https://github.com/CUSTcoding/login-jwt-django)
-
-- [Login JWT Spring](https://github.com/CUSTcoding/login-jwt-spring)
-
----
-
-##  Mobile 
 pendente...
 
 ---
 
-##  Desktop Apps
+##  Desenvolvimento Web (Back-End) 
+pendente...
+
+
+---
+
+##  Mobile 
 pendente...
 
 ---
@@ -148,8 +133,7 @@ pendente...
   
 ---
 ##  Bitcoin & Cypherpunk 
-- [Bitcoin Prototype](https://github.com/CUSTcoding/bitcoin-prototype)
-- [Programming Bitcoin Exercises](https://github.com/CUSTcoding/programming-bitcoin-exercises)
+pendente...
 ---
 
 ##  Segurança da Informação & Pentest  
