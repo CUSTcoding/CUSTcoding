@@ -151,7 +151,7 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 <br/>
 <span align="center">
 
-<p>*“A tecnologia é o que acontece quando criatividade encontra propósito.”*</p>
+<p>A tecnologia é o que acontece quando criatividade encontra propósito.</p>
 <span></span>
 <span>© Cust Coding — Todos os direitos reservados.</span>
 
