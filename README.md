@@ -35,16 +35,16 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 <div align="center">
   <h1>Linguagens</h1>
-  <a href="https://www.python.org/doc/" target="_blank">
+  <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" style="vertical-align: middle;" />
   </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
+  <a href="https://docs.oracle.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" style="display:block;" />
   </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" style="display:block;" />
   </a>
-  <a href="https://doc.rust-lang.org/" target="_blank">
+  <a href="https://rust-lang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
   </a>
 </div>
