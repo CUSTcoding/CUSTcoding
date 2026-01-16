@@ -195,7 +195,7 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:custodiotitossetitosse@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail" />
   </a>
   <!--<a href="https://wa.me/879980023">
