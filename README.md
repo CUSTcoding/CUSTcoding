@@ -24,7 +24,10 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
   </a>
   <div/>
 
-    
+ 
+
+
+
 <div align="center">
 
 
@@ -87,6 +90,8 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 </span>
 <br>
 
+ [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CUSTcoding&theme=github-compact)](https://github.com/CUSTcoding/github-readme-activity-graph)
+ 
 <span align="start">
 <h1 align="center">Projectos</h1>
   
@@ -149,6 +154,8 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
     <img src="https://skillicons.dev/icons?i=chrome" height="30" alt="Portfólio Website" />
   </a>-->
 </p>
+
+
 
 <br/>
 <span align="center">
