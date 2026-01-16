@@ -38,7 +38,7 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" style="vertical-align: middle;" />
   </a>
-  <a href="https://docs.oracle.com/" target="_blank">
+  <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" style="display:block;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -55,24 +55,23 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 <span align="center">
   <!--  Frameworks -->
-  <a href="https://nextjs.org/docs" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
   </a>
-  <a href="https://tailwindcss.com/docs" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
   </a>
   <!--<img src="https://skillicons.dev/icons?i=gsap" height="30" alt="GSAP" />-->
-  <!--<img src="https://skillicons.dev/icons?i=framer-motion" height="30" alt="Framer-Motion" />-->
-  <a href="https://www.framer.com/motion/" target="_blank">
+  <a href="https://www.framer.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="30" alt="Framer Motion"/>
   </a>
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+  <a href="https://reactnative.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" height="30" alt="React Native" />
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
+  <a href="https://spring.io/ target="_blank">
     <img src="https://skillicons.dev/icons?i=spring" height="30" alt="Spring" />
   </a>
-  <a href="https://docs.djangoproject.com/" target="_blank">
+  <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
   </a>
   <!--<img src="https://skillicons.dev/icons?i=axum" height="30" alt="Axum" />-->
