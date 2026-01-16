@@ -54,6 +54,7 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
   <!--<img src="https://skillicons.dev/icons?i=gsap" height="30" alt="GSAP" />-->
   <!--<img src="https://skillicons.dev/icons?i=framer-motion" height="30" alt="Framer-Motion" />-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="30" alt="Framer Motion"/>
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React Native" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="Spring" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
@@ -68,13 +69,12 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
   <!--<img src="https://skillicons.dev/icons?i=n8n" height="30" alt="n8n" />-->
   <!--<img src="https://skillicons.dev/icons?i=playwright" height="30" alt="Playwright" />-->
   <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium" />
-  <!--<img src="https://skillicons.dev/icons?i=jupyter" height="30" alt="Jupyter Notebook" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
-  <!--<img src="https://skillicons.dev/icons?i=numpy" height="30" alt="NumPy" />-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30"  />
   <!--<img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas" />-->
   <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="OpenCV" />
   <!--<img src="https://skillicons.dev/icons?i=yolo" height="30" alt="YOLO" />-->
-  <!--<img src="https://skillicons.dev/icons?i=keras" height="30" alt="Keras" />-->
   
   <!-- DevOps e Cloud -->
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
@@ -150,9 +150,9 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
   <a href="https://www.linkedin.com/in/custodio-da-sara-titosse-165567263">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
   </a>
-  <!--<a href="https://custcoding.dev">
-    <img src="https://skillicons.dev/icons?i=chrome" height="30" alt="Portfólio Website" />
-  </a>-->
+  <a href="https://custodio-portfolio-os-web.vercel.app/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="30" alt="chrome"/>
+  </a>
 </p>
 
 
