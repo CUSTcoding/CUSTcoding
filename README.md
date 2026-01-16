@@ -36,16 +36,16 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 <div align="center">
   <h1>Linguagens</h1>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" style="vertical-align: middle;" />
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" style="display:block;" />
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" style="display:block;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo" style="display:block;" />
+    <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo" style="display:block;" />
   </a>
   <a href="https://rust-lang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rust" height="50" alt="rust logo" />
+    <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
   </a>
 </div>
 
@@ -56,91 +56,91 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 <span align="center">
   <!--  Frameworks -->
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
   </a>
   <!--<img src="https://skillicons.dev/icons?i=gsap" height="30" alt="GSAP" />-->
   <a href="https://www.framer.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="30" alt="Framer Motion"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="40" alt="Framer Motion"/>
   </a>
   <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="30" alt="React Native" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" />
   </a>
   <a href="https://spring.io/ target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" height="30" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
+    <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
   </a>
   <!--<img src="https://skillicons.dev/icons?i=axum" height="30" alt="Axum" />-->
   <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   </a>
 
   <a href="https://dev.mysql.com/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   </a>
 
   <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
   </a>
   
   <a href="https://redis.io/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
+    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
   </a>
 
   <!-- Automação e Ferramentas -->
   <!--<img src="https://skillicons.dev/icons?i=n8n" height="30" alt="n8n" />-->
   <!--<img src="https://skillicons.dev/icons?i=playwright" height="30" alt="Playwright" />-->
   <a href="https://www.selenium.dev/documentation/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium" />
+    <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium" />
   </a>
 <!--<a href="https://learn.microsoft.com/power-bi/" target="_blank">
   <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="Power BI" style="vertical-align: middle;" />
 </a>-->
   <a href="https://jupyter.org/documentation" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
   </a>
   <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
+    <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
   </a>
   <a href="https://numpy.org/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   </a>
   <!--<img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas" />-->
   <a href="https://docs.opencv.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="OpenCV" />
+    <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" />
   </a>
   <!--<img src="https://skillicons.dev/icons?i=yolo" height="30" alt="YOLO" />-->
 
   <!-- DevOps e Cloud -->
   <a href="https://docs.github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   </a>
   <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   </a>
   <a href="https://docs.github.com/en/actions" target="_blank">
-    <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="GitHub Actions" />
+    <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
   </a>
   <a href="https://kubernetes.io/docs/home/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
   </a>
   <a href="https://docs.aws.amazon.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   </a>
 
   <a href="https://www.kernel.org/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
   </a>
 </span>
 
-
+<br>
 </span>
 <br>
 
@@ -196,16 +196,16 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 <p align="center">
   <a href="mailto:custodiotitossetitosse@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
   <!--<a href="https://wa.me/879980023">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="30" alt="WhatsApp" />
+    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp" />
   </a>-->
   <a href="https://www.linkedin.com/in/custodio-da-sara-titosse-165567263">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://custodio-portfolio-os-web.vercel.app/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="30" alt="chrome"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="40" alt="chrome"/>
   </a>
 </p>
 
