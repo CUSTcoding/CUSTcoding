@@ -35,13 +35,18 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 <div align="center">
   <h1>Linguagens</h1>
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
+  <a href="https://www.python.org/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" style="vertical-align: middle;" />
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" style="display:block;" />
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" style="display:block;" />
+  </a>
+  <a href="https://doc.rust-lang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
+  </a>
 </div>
 
 
@@ -49,43 +54,93 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 <h1>Algumas tecnologias</h1>
 
 <span align="center">
-  <!-- Linguagens e Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
+  <!--  Frameworks -->
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
+  </a>
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS" />
+  </a>
   <!--<img src="https://skillicons.dev/icons?i=gsap" height="30" alt="GSAP" />-->
   <!--<img src="https://skillicons.dev/icons?i=framer-motion" height="30" alt="Framer-Motion" />-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="30" alt="Framer Motion"/>
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React Native" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="Spring" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
-    <!--<img src="https://skillicons.dev/icons?i=axum" height="30" alt="Axum" />-->
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
-   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
+  <a href="https://www.framer.com/motion/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="30" alt="Framer Motion"/>
+  </a>
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="30" alt="React Native" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" height="30" alt="Spring" />
+  </a>
+  <a href="https://docs.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=django" height="30" alt="Django" />
+  </a>
+  <!--<img src="https://skillicons.dev/icons?i=axum" height="30" alt="Axum" />-->
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
+  </a>
 
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
+  </a>
+
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
+  </a>
   
+  <a href="https://redis.io/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
+  </a>
+
   <!-- Automação e Ferramentas -->
   <!--<img src="https://skillicons.dev/icons?i=n8n" height="30" alt="n8n" />-->
   <!--<img src="https://skillicons.dev/icons?i=playwright" height="30" alt="Playwright" />-->
-  <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30"  />
+  <a href="https://www.selenium.dev/documentation/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="Selenium" />
+  </a>
+<!--<a href="https://learn.microsoft.com/power-bi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="Power BI" style="vertical-align: middle;" />
+</a>-->
+  <a href="https://jupyter.org/documentation" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="Jupyter" />
+  </a>
+  <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="PyTorch" />
+  </a>
+  <a href="https://numpy.org/doc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  </a>
   <!--<img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas" />-->
-  <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="OpenCV" />
+  <a href="https://docs.opencv.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=opencv" height="30" alt="OpenCV" />
+  </a>
   <!--<img src="https://skillicons.dev/icons?i=yolo" height="30" alt="YOLO" />-->
-  
-  <!-- DevOps e Cloud -->
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
 
+  <!-- DevOps e Cloud -->
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+  </a>
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+  </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="GitHub Actions" />
+  </a>
+  <a href="https://kubernetes.io/docs/home/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="Kubernetes" />
+  </a>
+  <a href="https://docs.aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
+  </a>
+
+  <a href="https://www.kernel.org/doc/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="30" alt="Linux" />
+  </a>
 </span>
+
 
 </span>
 <br>
