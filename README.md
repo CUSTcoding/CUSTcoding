@@ -215,6 +215,7 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 <br/>
 <span align="center">
+<!-- nsec1rldn62ryhtl4chph68lns9cue4fwy2chruwefvuljm0t7es9emtqrqhc6y -->
 
 <p>A tecnologia é o que acontece quando criatividade encontra propósito.</p>
 <span></span>
