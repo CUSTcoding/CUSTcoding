@@ -171,6 +171,7 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 ##  Analise e Ciência de Dados, Python e BI  
 - [House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
 - [Titanic Kaggle](https://github.com/CUSTcoding/Titanic-Kaggle)
+- [Zindi Financial Inclusion](https://github.com/CUSTcoding/Zindi_Financial_Inclusion_in_Africa)
 
 ##  Visão Computacional  
 - [byte_NHANGA](https://github.com/CUSTcoding/byte_NHANGA)
