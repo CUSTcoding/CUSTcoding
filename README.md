@@ -7,7 +7,7 @@
 
 <!-- ===== Terminal ASCII Animation ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Backend+Developer+%26+Software+Architecture%27;%24+echo+%27Distributed+Systems+%26+Bitcoin+Developer%27;%24+echo+%27DevOps+%26+Automation%27;%24+echo+%27Web+Security%26%27" alt="terminal-animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Backend+Developer+%26+Software+Architecture%27;%24+echo+%27Distributed+Systems+%26+Bitcoin+Developer%27;%24+echo+%27DevOps+%26+Automation%27;%24+echo+%27Web+Security%27" alt="terminal-animation"/>
 </p>
 
 ## About Me
