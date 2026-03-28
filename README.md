@@ -1,6 +1,4 @@
 <!-- ===== Dark Cyber Banner ===== -->
-<!-- nsec1fauj3nuvp8aufnyaranqa8485v42ckh990t6xp7kjhjxvylf7y4q2djnxu -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=CUST%20CODING%20&fontColor=00ff88&fontSize=40&fontAlignY=55&animation=fadeIn" />
 </p>
@@ -162,9 +160,9 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
 <br/>
 <span align="center">
 
-<p>A tecnologia é o que acontece quando criatividade encontra propósito.</p>
+<p>Technology is what happens when creativity meets purpose.</p>
 <span></span>
-<span>© Cust Coding — Todos os direitos reservados.</span>
+<span>© Cust Coding — All rights reserved.</span>
 
 <span align="center">
 
