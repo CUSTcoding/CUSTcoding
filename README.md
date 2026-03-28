@@ -7,14 +7,17 @@
 
 <!-- ===== Terminal ASCII Animation ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Fullstack+Developer+%26+Mobile+Developer%27;%24+echo+%27Bitcoin+Developer+%26+Data+Scientist%27;%24+echo+%27DevOps+%26+Automacao%27" alt="terminal-animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Backend+Developer+%26+Software+Architecture%27;%24+echo+%27Distributed+Systems+%26+Bitcoin+Developer%27;%24+echo+%27DevOps+%26+Automation%27;%24+echo+%27Web+Security%26%27" alt="terminal-animation"/>
 </p>
 
-##  Sobre Mim
-### Olá! Eu sou Custódio Titosse < Cust Coding />
-Sou movido pela **curiosidade** e pela vontade constante de aprender. Tenho grande interesse em **comportamento humano, filosofia e tecnologia**.
-Atuo como **Desenvolvedor Fullstack e Mobile**, com inclinação para **DevOps e automação**, e também tenho paixão por **Ciência de Dados** e desenvolvimento em **Bitcoin**, inspirado pela filosofia de liberdade do **CypherPuck**.
-Minha missão é construir **soluções escaláveis, inteligentes e open source**, sempre unindo **tecnologia web, dados e inovação**.
+## About Me
+### Hi! I'm Custódio Titosse `<Cust Coding />`
+
+Driven by curiosity and a constant desire to learn, I work as a **Backend System Designer**, focusing on **software architecture, distributed systems, and system design**.  
+
+I specialize in **DevOps and automation**, with a passion for **Bitcoin development**, the **Cypherpunk philosophy**, and **web security (ethical hacking)**.  
+
+My mission is to build **scalable, intelligent, and open-source solutions**, combining **web technology, data, and software innovation**.
 
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,13 +33,12 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 
 
+
+
+
+
+<h1>Languages</h1>
 <div align="center">
-
-
-
-
-<div align="center">
-  <h1>Linguagens</h1>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" style="vertical-align: middle;" />
   </a>
@@ -53,30 +55,22 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 
 
-<h1>Algumas tecnologias</h1>
+<h1>Some Technologies</h1>
 
 <span align="center">
   <!--  Frameworks -->
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  </a>
-  <!--<img src="https://skillicons.dev/icons?i=gsap" height="30" alt="GSAP" />-->
-  <a href="https://www.framer.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" width="40" alt="Framer Motion"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="React Native" />
-  </a>
   <a href="https://spring.io/ target="_blank">
     <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=actix" height="40" alt="Actix" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
   </a>
-  <!--<img src="https://skillicons.dev/icons?i=axum" height="30" alt="Axum" />-->
   <a href="https://www.postgresql.org/docs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
   </a>
@@ -92,30 +86,16 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
   <a href="https://redis.io/docs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
   </a>
-
-  <!-- Automação e Ferramentas -->
-  <!--<img src="https://skillicons.dev/icons?i=n8n" height="30" alt="n8n" />-->
-  <!--<img src="https://skillicons.dev/icons?i=playwright" height="30" alt="Playwright" />-->
-  <a href="https://www.selenium.dev/documentation/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium" />
-  </a>
-<!--<a href="https://learn.microsoft.com/power-bi/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="30" alt="Power BI" style="vertical-align: middle;" />
-</a>-->
   <a href="https://jupyter.org/documentation" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
   </a>
   <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
   </a>
-  <a href="https://numpy.org/doc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
-  </a>
-  <!--<img src="https://skillicons.dev/icons?i=pandas" height="30" alt="Pandas" />-->
   <a href="https://docs.opencv.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" />
   </a>
-  <!--<img src="https://skillicons.dev/icons?i=yolo" height="30" alt="YOLO" />-->
+
 
   <!-- DevOps e Cloud -->
   <a href="https://docs.github.com/" target="_blank">
@@ -148,62 +128,27 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CUSTcoding&theme=github-compact)](https://github.com/CUSTcoding/github-readme-activity-graph)
  
-<span align="start">
-<h1 align="center">Projectos</h1>
-  
-##  Fullstack 
-- [World Interlux](https://github.com/CUSTcoding/world-interlux)
-- [CustOS Portifolio](https://github.com/CUSTcoding/custodio-portfolio-os-web)
-- [CCS](https://github.com/Cust-Coding/cust-coding-solutions)
-- [CRUD Multi Frameworks](https://github.com/CUSTcoding/crud-multi-frameworks)
-- [FEIRCA](https://github.com/CUSTcoding/FEIRCA)
-- [Menu Link](https://github.com/Cust-Coding/menu-link) 
-- [JWT](https://github.com/CUSTcoding/jwt)
-- [JMU](https://github.com/CUSTcoding/jmu)
-- [BTC World Map](https://github.com/MatimbaBTC/btc-world-map)
-- [Bitcoin Famba](https://github.com/MatimbaBTC/bitcoin-fambe)
-- [VBM](https://github.com/dollydarosa/VBM)
+<h1>Projects</h1>
 
+<div align="left">
+  <ul>
+    <li><a href="https://github.com/CUSTcoding/fullstack">Fullstack</a></li>
+    <li><a href="https://github.com/CUSTcoding/backend-architecture">Backend & Software Architecture</a></li>
+    <li><a href="https://github.com/CUSTcoding/devops-pipeline">DevOps</a></li>
+    <li><a href="https://github.com/CUSTcoding/distributed-systems">Distributed Systems</a></li>
+    <li><a href="https://github.com/CUSTcoding/cypherpuk">Cypherpuk & Security</a></li>
+    <li><a href="https://github.com/CUSTcoding/bitcoin-lab">Bitcoin</a></li>
+    <li><a href="https://github.com/CUSTcoding/data-science-lab">Data</a></li>
+  </ul>
+</div>
 
-##  Mobile 
-- [Alfred Wallet](https://github.com/MatimbaBTC/alfred-wallet)
-
-##  Analise e Ciência de Dados, Python e BI  
-- [House Prices Kaggle](https://github.com/CUSTcoding/house-prices-kaggle)
-- [Titanic Kaggle](https://github.com/CUSTcoding/Titanic-Kaggle)
-- [Zindi Financial Inclusion](https://github.com/CUSTcoding/Zindi_Financial_Inclusion_in_Africa)
-
-##  Visão Computacional  
-- [byte_NHANGA](https://github.com/CUSTcoding/byte_NHANGA)
-- [EPIwatch](https://github.com/CUSTcoding/EPIwatch)
-- [HandSlide](https://github.com/CUSTcoding/HandSlide)
-
-##   Automações e Agentes  de IA
-- [IA Educacional](https://github.com/CUSTcoding/IA_educacional)
-- [Social AI](https://github.com/CUSTcoding/social-ai)
-- [Mensage Collector](https://github.com/CUSTcoding/msg-collector)
-- [RH Automation Suite*](https://github.com/CUSTcoding/rh-automation-suite)
-
-## DevOps
-- [Docker & Docker Compose](https://github.com/CUSTcoding/Docker-docker-compose)
-- [Kubernetes](https://github.com/CUSTcoding/kubernetes)
-- [Ubuntu Server](https://github.com/CUSTcoding/Ubuntu-server-devops)
-  
-##  Bitcoin
-- [BItcoin Prototype](https://github.com/CUSTcoding/bitcoin-lab/tree/main/bitcoin-prototype)
-
-</span>
-
-##  Contatos
+##  Contacts:
 
 
 <p align="center">
   <a href="mailto:custodiotitossetitosse@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
-  <!--<a href="https://wa.me/879980023">
-    <img src="https://skillicons.dev/icons?i=whatsapp" height="40" alt="WhatsApp" />
-  </a>-->
   <a href="https://www.linkedin.com/in/custodio-da-sara-titosse-165567263">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
@@ -216,34 +161,6 @@ Minha missão é construir **soluções escaláveis, inteligentes e open source*
 
 <br/>
 <span align="center">
-<!-- nsec1rldn62ryhtl4chph68lns9cue4fwy2chruwefvuljm0t7es9emtqrqhc6y -->
-
-
-<!--
-1 67o9v9e9r
-
-2 67a9r9m9e9d
-
-3 67c9e9l9e9r9y
-
-4 67p9a9i9r
-
-5 67d9i9g9n9i9t9y
-
-6 67n9o9i9s9e
-
-7 67s9e9c9r9e9t
-
-8 67c9h9a9m9p9i9o9n
-
-9 67s9l9i9d9e
-
-10 67m9e9c9h9a9n9i9c
-
-11 67w9a9v9e
-
-1267d9o9m9a9i9n
--->
 
 <p>A tecnologia é o que acontece quando criatividade encontra propósito.</p>
 <span></span>
