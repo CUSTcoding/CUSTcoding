@@ -1,4 +1,5 @@
 <!-- ===== Dark Cyber Banner ===== -->
+<!-- nsec1euvm0xghw70hn7lqyuxkuwdht3mzt0myp8tlkdzzplahuw7rrmespknnhh-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=CUST%20CODING%20&fontColor=00ff88&fontSize=40&fontAlignY=55&animation=fadeIn" />
 </p>
