@@ -41,6 +41,9 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" style="vertical-align: middle;" />
   </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://skillicons.dev/icons?i="java" height="60" alt="java logo" style="display:block;" />
+  </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" style="display:block;" />
   </a>
