@@ -28,11 +28,6 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
   </a>
   <div/>
 
- 
-
-
-
-
 
 
 
@@ -64,7 +59,7 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
   <a href="https://spring.io/ target="https://docs.oracle.com/en/java/_blank">
     <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
+  <a href="https://actix.rs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=actix" height="40" alt="Actix" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
@@ -88,9 +83,6 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
   <a href="https://jupyter.org/documentation" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" />
   </a>
-  <a href="https://pytorch.org/docs/stable/index.html" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
-  </a>
   <a href="https://docs.opencv.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" />
   </a>
@@ -112,10 +104,12 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
   <a href="https://kubernetes.io/docs/home/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
   </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" />
+  </a>
   <a href="https://docs.aws.amazon.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   </a>
-
   <a href="https://www.kernel.org/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
   </a>
