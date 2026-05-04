@@ -42,7 +42,7 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
     <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" style="vertical-align: middle;" />
   </a>
   <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i="java" height="60" alt="java logo" style="display:block;" />
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" style="display:block;" />
   </a>
   <a href="https://go.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" style="display:block;" />
@@ -61,7 +61,7 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
   </a>
-  <a href="https://spring.io/ target="_blank">
+  <a href="https://spring.io/ target="https://docs.oracle.com/en/java/_blank">
     <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
