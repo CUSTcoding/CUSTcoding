@@ -20,7 +20,7 @@ My mission is to build **scalable, intelligent, and open-source solutions**, com
 
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&hide=JavaScript,HTML,CSS,Dockerfile,Hack,PHP,Jupyter%20NotebookJupyterNotebook&langs_count=5&cache_seconds=1800" alt="Top Languages">
+    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&hide=JavaScript,HTML,CSS,Dockerfile,Hack,PHP,Jupyter%20Notebook&langs_count=5&cache_seconds=1800" alt="Top Languages">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://github.com/anuraghazra/github-readme-stats">
