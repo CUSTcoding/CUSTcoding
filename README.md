@@ -6,17 +6,19 @@
 
 <!-- ===== Terminal ASCII Animation ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Backend+Developer+%26+Software+Architecture%27;%24+echo+%27Distributed+Systems+%26+Bitcoin+Developer%27;%24+echo+%27DevOps+%26+Automation%27;%24+echo+%27Web+Security%27" alt="terminal-animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Software+Developer+%26+Software+Architecture%27;%24+echo+%27Distributed+Systems+%26+Bitcoin+Developer%27;%24+echo+%27DevOps+%26+DevSecOps%27;%24+echo+%27Web+Security%27" alt="terminal-animation"/>
 </p>
 
 ## About Me
 ### Hi! I'm Custódio Titosse `<Cust Coding />`
 
-Driven by curiosity and a constant desire to learn, I work as a **Backend System Designer**, focusing on **software architecture, distributed systems, and system design**.  
+I’m a **Software Developer** driven by curiosity and a continuous pursuit of mastery in **system design** and **software architecture**.
 
-I specialize in **DevOps and automation**, with a passion for **Bitcoin development**, the **Cypherpunk philosophy**, and **web security (ethical hacking)**.  
+My focus is on **backend, distributed systems, and scalable architectures,** with strong involvement in **DevOps and DevSecOps** practices to build reliable and **secure systems**.
 
-My mission is to build **scalable, intelligent, and open-source solutions**, combining **web technology, data, and software innovation**.
+I also explore **Bitcoin development, Cypherpunk principles, and web security (ethical hacking),** aiming to **understand and contribute to open, decentralized technologies.**
+
+My goal is to design and build scalable, secure, and efficient systems that solve real-world problems through software, data, and open-source innovation.
 
 <div align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
