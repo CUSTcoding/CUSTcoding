@@ -1,125 +1,109 @@
 <!-- ===== Dark Cyber Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=CUST%20CODING%20&fontColor=00ff88&fontSize=40&fontAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0e1117&height=120&section=header&text=CUST%20CODING%20&fontColor=00ff88&fontSize=40&fontAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <!-- ===== Terminal Typing Animation ===== -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=750&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Software+%26+Bitcoin+Developer%27;%24+echo+%27Embedded+Systems%27;%24+echo+%27Distributed+Systems%27;%24+echo+%27Cypherpunk+%26+Cryptography%27;%24+echo+%27DevOps%27;%24+echo+%27Geospatial+Computer+Vision%27" alt="terminal-animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami%3B+Cust+Coding;%24+echo+%27Software+%26+Bitcoin+Developer%27;%24+echo+%27Embedded+%26+Distributed+Systems%27;%24+echo+%27Cypherpunk+%26+Cryptography%27;%24+echo+%27DevOps%27;%24+echo+%27Computer+Vision+%26+Deep+Learning%27" alt="Terminal Typing Animation" />
 </p>
 
-<a href="https://github.com/CUSTcoding/CUSTcoding">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CUSTcoding/CUSTcoding/main/dark.svg?v=17">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CUSTcoding/CUSTcoding/main/light.svg?v=17">
-    <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/CUSTcoding/CUSTcoding/main/dark.svg?v=17" width="100%">
-  </picture>
-</a>
+<!-- ===== Header Graph/SVG ===== -->
+<p align="center">
+  <a href="https://github.com/CUSTcoding/CUSTcoding">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CUSTcoding/CUSTcoding/main/dark.svg?v=17">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CUSTcoding/CUSTcoding/main/light.svg?v=17">
+      <img alt="GitHub Profile Header" src="https://raw.githubusercontent.com/CUSTcoding/CUSTcoding/main/dark.svg?v=17" width="100%">
+    </picture>
+  </a>
+</p>
 
-<br>
+---
 
-## Sobre mim
+### About Me
 
-### Olá! Sou o Custódio Titosse `<Cust Coding />`
+Hello! I'm **Custódio Titosse** (`<Cust Coding />`), a **Software Developer** and **Bitcoin Developer** focused on building **open-source** software and exploring advanced Computer Science concepts.
 
-Sou *Software Developer* e *Bitcoin Developer*, focado na construção de *software open-source* e na exploração de áreas mais profundas da *ciência da computação*. Os meus interesses incluem *computação distribuída, sistemas embarcados, criptografia, cypherpunk, Bitcoin, DevOps e visão computacional geoespacial com deep learning*.
+* **Current Focus:** Distributed Systems, Bitcoin, Embedded Systems, and Cryptography.
+* **Fields of Expertise:** DevOps, Backend, Cypherpunk Culture, and Geospatial Computer Vision with **Deep Learning**.
 
-<br>
+---
+
+### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CUSTcoding/CUSTcoding/main/github-jet.svg?v=23" alt="GitHub Jet Heatmap" width="100%" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,go,rust,bitcoin,linux,docker,kubernetes,git,github,postgres,tensorflow&perline=7" alt="Tech Stack" />
 </p>
 
-<br>
+---
 
-## Estatísticas
+### GitHub Analytics
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&hide=JavaScript,HTML,CSS,Dockerfile,Hack,PHP&langs_count=5&cache_seconds=1800" alt="Top Languages" />
+    <img height="165" src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&hide=JavaScript,HTML,CSS,Dockerfile,Hack,PHP&langs_count=5&cache_seconds=1800" alt="Top Languages" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=CUSTcoding&show_icons=true&theme=dark&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+    <img height="165" src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=CUSTcoding&show_icons=true&theme=dark&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
-</div>
+</p>
 
 <p align="center">
   <a href="https://github.com/CUSTcoding/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CUSTcoding&theme=github-compact" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CUSTcoding&theme=github-compact" alt="GitHub Activity Graph" width="95%" />
   </a>
 </p>
 
-<br>
+---
 
-## Linguagens
+### Featured Repositories
 
-<div align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" /></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" /></a>
-  <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="50" alt="Go" /></a>
-  <a href="https://rust-lang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=rust" height="50" alt="Rust" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/CUSTcoding/fullstack">
+    <img src="https://img.shields.io/badge/Fullstack-0e1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="Fullstack" />
+  </a>
+  <a href="https://github.com/CUSTcoding/backend-architecture">
+    <img src="https://img.shields.io/badge/Backend_%26_Architecture-0e1117?style=for-the-badge&logo=geeksforgeeks&logoColor=00ff88" alt="Backend Architecture" />
+  </a>
+  <a href="https://github.com/CUSTcoding/devops-pipeline">
+    <img src="https://img.shields.io/badge/DevOps_Pipeline-0e1117?style=for-the-badge&logo=docker&logoColor=00ff88" alt="DevOps" />
+  </a>
+  <a href="https://github.com/CUSTcoding/distributed-systems">
+    <img src="https://img.shields.io/badge/Distributed_Systems-0e1117?style=for-the-badge&logo=apache&logoColor=00ff88" alt="Distributed Systems" />
+  </a>
+  <br>
+  <a href="https://github.com/CUSTcoding/cypherpuk">
+    <img src="https://img.shields.io/badge/Cypherpunk_%26_Security-0e1117?style=for-the-badge&logo=gnupg&logoColor=00ff88" alt="Cypherpunk" />
+  </a>
+  <a href="https://github.com/CUSTcoding/bitcoin-lab">
+    <img src="https://img.shields.io/badge/Bitcoin_Lab-0e1117?style=for-the-badge&logo=bitcoin&logoColor=00ff88" alt="Bitcoin" />
+  </a>
+  <a href="https://github.com/CUSTcoding/data-science-lab">
+    <img src="https://img.shields.io/badge/Data_Science-0e1117?style=for-the-badge&logo=python&logoColor=00ff88" alt="Data" />
+  </a>
+</p>
 
-<br>
+---
 
-## Tecnologias
-
-<div align="center">
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" /></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring" /></a>
-  <a href="https://actix.rs/" target="_blank"><img src="https://skillicons.dev/icons?i=actix" height="40" alt="Actix" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" /></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" /></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" /></a>
-  <a href="https://redis.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" /></a>
-  <a href="https://jupyter.org/documentation" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" /></a>
-  <a href="https://docs.opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" /></a>
-  <br><br>
-  <a href="https://docs.github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" /></a>
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" /></a>
-  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" /></a>
-  <a href="https://kubernetes.io/docs/home/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" /></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" /></a>
-  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" /></a>
-  <a href="https://www.kernel.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /></a>
-</div>
-
-<br>
-
-## Projetos
-
-<div align="left">
-  <ul>
-    <li><a href="https://github.com/CUSTcoding/fullstack">Fullstack</a></li>
-    <li><a href="https://github.com/CUSTcoding/backend-architecture">Backend & Software Architecture</a></li>
-    <li><a href="https://github.com/CUSTcoding/devops-pipeline">DevOps</a></li>
-    <li><a href="https://github.com/CUSTcoding/distributed-systems">Distributed Systems</a></li>
-    <li><a href="https://github.com/CUSTcoding/cypherpuk">Cypherpunk & Security</a></li>
-    <li><a href="https://github.com/CUSTcoding/bitcoin-lab">Bitcoin</a></li>
-    <li><a href="https://github.com/CUSTcoding/data-science-lab">Data</a></li>
-  </ul>
-</div>
-
-<br>
-
-## Contactos
+### Connect With Me
 
 <p align="center">
   <a href="mailto:custodiotitossetitosse@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-0e1117?style=for-the-badge&logo=gmail&logoColor=00ff88" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/custodio-da-sara-titosse-165567263">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0e1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" alt="LinkedIn" />
   </a>
-  <a href="https://custodio-portfolio-os-web.vercel.app/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="40" alt="Portfolio" />
+  <a href="https://cc-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0e1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88" alt="Portfolio" />
   </a>
 </p>
 
 <br>
 
-<p align="center"><i>Technology is what happens when creativity meets purpose.</i></p>
-<p align="center">© Cust Coding — All rights reserved.</p>
+<p align="center">
+  <sub><i>"Technology is what happens when creativity meets purpose."</i></sub><br>
+  <sub>© Cust Coding — All rights reserved.</sub>
+</p>
