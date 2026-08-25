@@ -27,15 +27,6 @@ Hello! I'm **Custódio Titosse** (`<Cust Coding />`), a **Software Developer** a
 
 * **Current Focus:** Distributed Systems, Bitcoin, Embedded Systems, and Cryptography.
 * **Fields of Expertise:** DevOps, Backend, Cypherpunk Culture, and Geospatial Computer Vision with **Deep Learning**.
-
----
-
-### Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,go,rust,bitcoin,linux,docker,kubernetes,git,github,postgres,tensorflow&perline=7" alt="Tech Stack" />
-</p>
-
 ---
 
 ### GitHub Analytics
