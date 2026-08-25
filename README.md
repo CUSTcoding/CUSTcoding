@@ -44,11 +44,12 @@ Hello! I'm **Custódio Titosse** (`<Cust Coding />`), a **Software Developer** a
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=CUSTcoding&layout=donut&theme=dark&hide=JavaScript,HTML,CSS,Dockerfile,Hack,PHP&langs_count=5&cache_seconds=1800" alt="Top Languages" />
   </a>
-  &nbsp;
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://github-stats-git-main-m3dkatas-projects.vercel.app/api?username=CUSTcoding&show_icons=true&theme=dark&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
 </p>
+<br>
 
 <p align="center">
   <a href="https://github.com/CUSTcoding/github-readme-activity-graph">
@@ -56,36 +57,6 @@ Hello! I'm **Custódio Titosse** (`<Cust Coding />`), a **Software Developer** a
   </a>
 </p>
 
----
-
-### Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/CUSTcoding/fullstack">
-    <img src="https://img.shields.io/badge/Fullstack-0e1117?style=for-the-badge&logo=github&logoColor=00ff88" alt="Fullstack" />
-  </a>
-  <a href="https://github.com/CUSTcoding/backend-architecture">
-    <img src="https://img.shields.io/badge/Backend_%26_Architecture-0e1117?style=for-the-badge&logo=geeksforgeeks&logoColor=00ff88" alt="Backend Architecture" />
-  </a>
-  <a href="https://github.com/CUSTcoding/devops-pipeline">
-    <img src="https://img.shields.io/badge/DevOps_Pipeline-0e1117?style=for-the-badge&logo=docker&logoColor=00ff88" alt="DevOps" />
-  </a>
-  <a href="https://github.com/CUSTcoding/distributed-systems">
-    <img src="https://img.shields.io/badge/Distributed_Systems-0e1117?style=for-the-badge&logo=apache&logoColor=00ff88" alt="Distributed Systems" />
-  </a>
-  <br>
-  <a href="https://github.com/CUSTcoding/cypherpuk">
-    <img src="https://img.shields.io/badge/Cypherpunk_%26_Security-0e1117?style=for-the-badge&logo=gnupg&logoColor=00ff88" alt="Cypherpunk" />
-  </a>
-  <a href="https://github.com/CUSTcoding/bitcoin-lab">
-    <img src="https://img.shields.io/badge/Bitcoin_Lab-0e1117?style=for-the-badge&logo=bitcoin&logoColor=00ff88" alt="Bitcoin" />
-  </a>
-  <a href="https://github.com/CUSTcoding/data-science-lab">
-    <img src="https://img.shields.io/badge/Data_Science-0e1117?style=for-the-badge&logo=python&logoColor=00ff88" alt="Data" />
-  </a>
-</p>
-
----
 
 ### Connect With Me
 
